@@ -1,30 +1,37 @@
-Street Punk Bot
+# PYTHON3
+SELF BOT PYTHON3.
+------
+-
+Cara Install Self Bot :
+------
+- Ketik -> `apt update`
+- Ketik -> `apt upgrade`
+- Ketik -> `apt install git`
+- Ketik -> `apt install python3-pip`
+- Ketik -> `pip3 install rsa`
+- Ketik -> `pip3 install thrift==0.11.0`
+- Ketik -> `pip3 install requests`
+- Ketik -> `pip3 install bs4`
+- Ketik -> `pip3 install gtts`
+- Ketik -> `pip3 install pytz`
+- Ketik -> `pip3 install humanfriendly`
+- Ketik -> `pip3 install googletrans`
+- Ketik -> `git clone https://github.com/Nadyatjia/BotLinePython3`
+- Ketik -> `cd BotLinePython3`
+- Ketik -> `python3 Nadyasb.py`
 
-4 Bot, Admin terserah hahaha
+Cara Menjalankan Bot Kembali :
+------
+- Ketik -> `cd LineBotPython3`
+- Ketik -> `python3 Nadyasb.py`
 
-Jangan lupa ganti Token nya dengan token bot kalian,
-Ganti juga User ID Admin dengan User ID kalian
 
+Credit By@ Nadya Sutjiadi.
+------
+- `Follow My Instagram : nadya.tjia`
+- `Add My ID LINE : nad_nad. (pake titik)`
 
-
-Cara install di termux
-
-- pkg install python2 -y
-- pkg install git -y
-- pkg install nano -y
-- pip2 install rsa
-- pip2 install requests
-- pip2 install thrift==0.9.3
-- git clone https://github.com/RikiOktopan1/PogoBot
-- cd PogoBot
-- nano bot.py
-
-Silahkan ganti token dan mid, setelah selesai save ctrl+x (dengan hackers keyborad)
-
-- python2 bot.py
-
-Cara install di codeanywhere menggunakan sudo 
-
-- sudo apt-get install python2
-
-Begitu seterus nya dengan awalan sudo
+Thx To :
+------
+- `LINE-TCR TEAM`
+- `HELLO-WORLD`
